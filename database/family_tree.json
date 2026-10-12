@@ -27,9 +27,9 @@
       "branch": "kaka",
       "recordStatus": "confirmed",
       "createdAt": 1710000000000,
-      "updatedAt": 1791770470272,
+      "updatedAt": 1791760631668,
       "isDobEstimated": false,
-      "isDeceased": true,
+      "isDeceased": false,
       "isDemo": false
     },
     {
@@ -63,10 +63,10 @@
       "fullName": "NDAMYIMANA Dominique",
       "gender": "male",
       "isDobEstimated": false,
-      "isDeceased": true,
+      "isDeceased": false,
       "recordStatus": "confirmed",
       "createdAt": 1791756442676,
-      "updatedAt": 1791770503358,
+      "updatedAt": 1791760667853,
       "branch": "kaka",
       "isDemo": false
     },
@@ -149,9 +149,9 @@
       "branch": "FAUSTIN NKUNDABERURA Lineage",
       "recordStatus": "confirmed",
       "createdAt": 1791756634269,
-      "updatedAt": 1791770518455,
+      "updatedAt": 1791759777299,
       "isDobEstimated": false,
-      "isDeceased": true,
+      "isDeceased": false,
       "isDemo": false
     },
     {
@@ -289,13 +289,13 @@
     {
       "id": "p-1791756905069-5",
       "fullName": "Ngendahimana",
-      "gender": "male",
+      "gender": "female",
       "branch": "Vallerie Lineage",
       "recordStatus": "confirmed",
       "createdAt": 1791756905069,
-      "updatedAt": 1791770594356,
+      "updatedAt": 1791760494498,
       "isDobEstimated": false,
-      "isDeceased": true,
+      "isDeceased": false,
       "isDemo": false
     },
     {
@@ -349,98 +349,82 @@
     {
       "id": "p-1791757106674-1",
       "fullName": "Jeanne",
-      "gender": "female",
+      "gender": "unknown",
       "branch": "NDAMYIMANA Dominique Lineage",
       "recordStatus": "confirmed",
       "createdAt": 1791757106674,
-      "updatedAt": 1791769712275,
-      "isDemo": false,
-      "isDobEstimated": false,
-      "isDeceased": false
+      "updatedAt": 1791757106674,
+      "isDemo": false
     },
     {
       "id": "p-1791757106674-2",
       "fullName": "Jacky",
-      "gender": "female",
+      "gender": "unknown",
       "branch": "NDAMYIMANA Dominique Lineage",
       "recordStatus": "confirmed",
       "createdAt": 1791757106674,
-      "updatedAt": 1791769728323,
-      "isDemo": false,
-      "isDobEstimated": false,
-      "isDeceased": false
+      "updatedAt": 1791757106674,
+      "isDemo": false
     },
     {
       "id": "p-1791757106674-3",
       "fullName": "Nyagahunge",
-      "gender": "male",
+      "gender": "unknown",
       "branch": "NDAMYIMANA Dominique Lineage",
       "recordStatus": "confirmed",
       "createdAt": 1791757106674,
-      "updatedAt": 1791770661655,
-      "isDemo": false,
-      "isDobEstimated": false,
-      "isDeceased": true
+      "updatedAt": 1791757106674,
+      "isDemo": false
     },
     {
       "id": "p-1791757106674-4",
       "fullName": "Jerome",
-      "gender": "male",
+      "gender": "unknown",
       "branch": "NDAMYIMANA Dominique Lineage",
       "recordStatus": "confirmed",
       "createdAt": 1791757106674,
-      "updatedAt": 1791769655806,
-      "isDemo": false,
-      "isDobEstimated": false,
-      "isDeceased": false
+      "updatedAt": 1791757106674,
+      "isDemo": false
     },
     {
       "id": "p-1791757106674-5",
       "fullName": "shadrack",
-      "gender": "male",
+      "gender": "unknown",
       "branch": "NDAMYIMANA Dominique Lineage",
       "recordStatus": "confirmed",
       "createdAt": 1791757106674,
-      "updatedAt": 1791769760706,
-      "isDemo": false,
-      "isDobEstimated": false,
-      "isDeceased": false
+      "updatedAt": 1791757106674,
+      "isDemo": false
     },
     {
       "id": "p-1791757106674-6",
       "fullName": "Judith (Kobwa)",
-      "gender": "female",
+      "gender": "unknown",
       "branch": "NDAMYIMANA Dominique Lineage",
       "recordStatus": "confirmed",
       "createdAt": 1791757106674,
-      "updatedAt": 1791769698053,
-      "isDemo": false,
-      "isDobEstimated": false,
-      "isDeceased": false
+      "updatedAt": 1791757106674,
+      "isDemo": false
     },
     {
       "id": "p-1791757106674-7",
       "fullName": "Lucy",
-      "gender": "female",
+      "gender": "unknown",
       "branch": "NDAMYIMANA Dominique Lineage",
       "recordStatus": "confirmed",
       "createdAt": 1791757106674,
-      "updatedAt": 1791769689477,
-      "isDemo": false,
-      "isDobEstimated": false,
-      "isDeceased": false
+      "updatedAt": 1791757106674,
+      "isDemo": false
     },
     {
       "id": "p-1791757106674-8",
       "fullName": "Elie",
-      "gender": "male",
+      "gender": "unknown",
       "branch": "NDAMYIMANA Dominique Lineage",
       "recordStatus": "confirmed",
       "createdAt": 1791757106674,
-      "updatedAt": 1791769674673,
-      "isDemo": false,
-      "isDobEstimated": false,
-      "isDeceased": false
+      "updatedAt": 1791757106674,
+      "isDemo": false
     },
     {
       "id": "p-1791757386549-0",
@@ -473,9 +457,9 @@
       "branch": "kaka",
       "recordStatus": "confirmed",
       "createdAt": 1791757386549,
-      "updatedAt": 1791770705721,
+      "updatedAt": 1791761865242,
       "isDobEstimated": false,
-      "isDeceased": true,
+      "isDeceased": false,
       "isDemo": false
     },
     {
@@ -485,9 +469,9 @@
       "branch": "kaka",
       "recordStatus": "confirmed",
       "createdAt": 1791757386549,
-      "updatedAt": 1791770692964,
+      "updatedAt": 1791761879026,
       "isDobEstimated": false,
-      "isDeceased": true,
+      "isDeceased": false,
       "isDemo": false
     },
     {
@@ -643,24 +627,24 @@
     {
       "id": "p-1791759618156-0",
       "fullName": "solange",
-      "gender": "female",
+      "gender": "unknown",
       "branch": "Gerard Lineage",
       "recordStatus": "confirmed",
       "isDemo": false,
       "createdAt": 1791759618156,
-      "updatedAt": 1791770732586,
+      "updatedAt": 1791760535663,
       "isDobEstimated": false,
       "isDeceased": false
     },
     {
       "id": "p-1791759618156-1",
       "fullName": "Confy",
-      "gender": "female",
+      "gender": "unknown",
       "branch": "Gerard Lineage",
       "recordStatus": "confirmed",
       "isDemo": false,
       "createdAt": 1791759618156,
-      "updatedAt": 1791770743441,
+      "updatedAt": 1791760548883,
       "isDobEstimated": false,
       "isDeceased": false
     },
@@ -679,12 +663,12 @@
     {
       "id": "p-1791759618156-3",
       "fullName": "Mukesha",
-      "gender": "female",
+      "gender": "unknown",
       "branch": "Gerard Lineage",
       "recordStatus": "confirmed",
       "isDemo": false,
       "createdAt": 1791759618156,
-      "updatedAt": 1791770754705,
+      "updatedAt": 1791760562247,
       "isDobEstimated": false,
       "isDeceased": false
     },
@@ -1482,377 +1466,369 @@
       "createdAt": 1791765867328
     },
     {
-      "id": "agg-1791769663410-478",
-      "ancestorId": "p-1791757106674-4",
+      "id": "agg-1791772797187-704",
+      "ancestorId": "p-1791756905069-8",
       "generationOffset": 1,
-      "count": 1,
+      "count": 3,
       "isConfirmedAdditional": true,
       "reconciledNamedCount": 0,
-      "isIncompleteBranch": false,
+      "isIncompleteBranch": true,
       "isDemo": false,
-      "createdAt": 1791769663410
+      "createdAt": 1791772797187
     },
     {
-      "id": "agg-1791769766672-447",
-      "ancestorId": "p-1791757106674-5",
+      "id": "agg-1791772871250-243",
+      "ancestorId": "p-1791760293644-0",
       "generationOffset": 1,
-      "count": 1,
+      "count": 3,
       "isConfirmedAdditional": true,
       "reconciledNamedCount": 0,
-      "isIncompleteBranch": false,
+      "isIncompleteBranch": true,
       "isDemo": false,
-      "createdAt": 1791769766672
+      "createdAt": 1791772871250
     }
   ],
   "nodePositions": {
     "p-mukamana": {
-      "x": 140,
-      "y": 4400
+      "x": 4960,
+      "y": 100
     },
     "p-jean": {
-      "x": 400,
-      "y": 1200
+      "x": 1360,
+      "y": 300
     },
     "p-1791756905069-0": {
-      "x": 660,
-      "y": 160
+      "x": 190,
+      "y": 500
     },
     "agg-1791759380539-970": {
-      "x": 920,
-      "y": 160
+      "x": 190,
+      "y": 700
     },
     "p-1791756905069-1": {
-      "x": 660,
-      "y": 320
+      "x": 370,
+      "y": 500
     },
     "p-1791759618156-0": {
-      "x": 920,
-      "y": 320
+      "x": 370,
+      "y": 700
     },
     "agg-1791765467959-25": {
-      "x": 1180,
-      "y": 320
+      "x": 370,
+      "y": 900
     },
     "p-1791759618156-1": {
-      "x": 920,
-      "y": 480
+      "x": 550,
+      "y": 700
     },
     "p-1791759618156-2": {
-      "x": 920,
-      "y": 640
+      "x": 730,
+      "y": 700
     },
     "p-1791759618156-3": {
-      "x": 920,
-      "y": 800
+      "x": 910,
+      "y": 700
     },
     "agg-1791765454828-450": {
-      "x": 1180,
-      "y": 800
+      "x": 910,
+      "y": 900
     },
     "p-1791759618156-4": {
-      "x": 920,
-      "y": 960
+      "x": 1090,
+      "y": 700
     },
     "agg-1791765442935-350": {
-      "x": 1180,
-      "y": 960
+      "x": 1090,
+      "y": 900
     },
     "agg-1791759654265-368": {
-      "x": 920,
-      "y": 1120
+      "x": 1270,
+      "y": 700
     },
     "p-1791756905069-2": {
-      "x": 660,
-      "y": 480
+      "x": 550,
+      "y": 500
     },
     "p-1791760293644-0": {
-      "x": 920,
-      "y": 480
+      "x": 550,
+      "y": 700
     },
     "p-1791756905069-3": {
-      "x": 660,
-      "y": 640
+      "x": 730,
+      "y": 500
     },
     "agg-1791759424080-205": {
-      "x": 920,
-      "y": 640
+      "x": 730,
+      "y": 700
     },
     "p-1791756905069-4": {
-      "x": 660,
-      "y": 800
+      "x": 910,
+      "y": 500
     },
     "agg-1791760311147-256": {
-      "x": 920,
-      "y": 800
+      "x": 910,
+      "y": 700
     },
     "p-1791756905069-5": {
-      "x": 660,
-      "y": 960
+      "x": 1090,
+      "y": 500
     },
     "p-1791756905069-6": {
-      "x": 660,
-      "y": 1120
+      "x": 1270,
+      "y": 500
     },
     "p-1791756905069-7": {
-      "x": 660,
-      "y": 1280
+      "x": 1450,
+      "y": 500
     },
     "p-1791756905069-8": {
-      "x": 660,
-      "y": 1440
+      "x": 1630,
+      "y": 500
     },
     "p-marie": {
-      "x": 400,
-      "y": 2720
+      "x": 3070,
+      "y": 300
     },
     "p-1791756725108-0": {
-      "x": 660,
-      "y": 2400
+      "x": 2710,
+      "y": 500
     },
     "p-1791756725108-1": {
-      "x": 660,
-      "y": 2560
+      "x": 2890,
+      "y": 500
     },
     "p-1791756725108-2": {
-      "x": 660,
-      "y": 2720
+      "x": 3070,
+      "y": 500
     },
     "p-1791756725108-3": {
-      "x": 660,
-      "y": 2880
+      "x": 3250,
+      "y": 500
     },
     "p-1791759315438-0": {
-      "x": 920,
-      "y": 2880
+      "x": 3250,
+      "y": 700
     },
     "p-1791759315438-1": {
-      "x": 920,
-      "y": 3040
+      "x": 3430,
+      "y": 700
     },
     "p-peter": {
-      "x": 400,
-      "y": 4240
+      "x": 4780,
+      "y": 300
     },
     "p-1791756634269-0": {
-      "x": 660,
-      "y": 3200
+      "x": 3610,
+      "y": 500
     },
     "p-1791759086319-0": {
-      "x": 920,
-      "y": 3200
+      "x": 3610,
+      "y": 700
     },
     "p-1791759086319-1": {
-      "x": 920,
-      "y": 3360
+      "x": 3790,
+      "y": 700
     },
     "p-1791756634269-1": {
-      "x": 660,
-      "y": 3360
+      "x": 3790,
+      "y": 500
     },
     "p-1791759167528-0": {
-      "x": 920,
-      "y": 3360
+      "x": 3790,
+      "y": 700
     },
     "p-1791759167528-1": {
-      "x": 920,
-      "y": 3520
+      "x": 3970,
+      "y": 700
     },
     "p-1791759167528-2": {
-      "x": 920,
-      "y": 3680
+      "x": 4150,
+      "y": 700
     },
     "p-1791756634269-2": {
-      "x": 660,
-      "y": 3520
+      "x": 3970,
+      "y": 500
     },
     "p-1791756634269-3": {
-      "x": 660,
-      "y": 3680
+      "x": 4214,
+      "y": 488
     },
     "p-1791759233553-0": {
-      "x": 920,
-      "y": 3680
+      "x": 4150,
+      "y": 700
     },
     "p-1791759233553-1": {
-      "x": 920,
-      "y": 3840
+      "x": 4330,
+      "y": 700
     },
     "p-1791756634269-4": {
-      "x": 660,
-      "y": 3840
+      "x": 4330,
+      "y": 500
     },
     "p-1791756634269-5": {
-      "x": 660,
-      "y": 4000
+      "x": 4510,
+      "y": 500
     },
     "p-1791759220519-0": {
-      "x": 920,
-      "y": 4000
+      "x": 4510,
+      "y": 700
     },
     "p-1791756634269-6": {
-      "x": 660,
-      "y": 4160
+      "x": 4690,
+      "y": 500
     },
     "p-1791756634269-7": {
-      "x": 660,
-      "y": 4320
+      "x": 4870,
+      "y": 500
     },
     "p-1791759251093-0": {
-      "x": 920,
-      "y": 4320
+      "x": 4870,
+      "y": 700
     },
     "p-1791756634269-8": {
-      "x": 660,
-      "y": 4480
+      "x": 5050,
+      "y": 500
     },
     "agg-peter-kids": {
-      "x": 660,
-      "y": 4640
+      "x": 5230,
+      "y": 500
     },
     "p-1791756442676-152": {
-      "x": 400,
-      "y": 6080
+      "x": 6850,
+      "y": 300
     },
     "p-1791757106674-0": {
-      "x": 660,
-      "y": 5440
+      "x": 6130,
+      "y": 500
     },
     "agg-1791765564558-281": {
-      "x": 920,
-      "y": 5440
+      "x": 6130,
+      "y": 700
     },
     "p-1791757106674-1": {
-      "x": 660,
-      "y": 5600
+      "x": 6310,
+      "y": 500
     },
     "agg-1791765867328-946": {
-      "x": 920,
-      "y": 5600
+      "x": 6310,
+      "y": 700
     },
     "p-1791757106674-2": {
-      "x": 660,
-      "y": 5760
+      "x": 6490,
+      "y": 500
     },
     "agg-1791765860160-898": {
-      "x": 920,
-      "y": 5760
+      "x": 6490,
+      "y": 700
     },
     "p-1791757106674-3": {
-      "x": 660,
-      "y": 5920
+      "x": 6670,
+      "y": 500
     },
     "p-1791757106674-4": {
-      "x": 660,
-      "y": 6080
-    },
-    "agg-1791769663410-478": {
-      "x": 920,
-      "y": 6080
+      "x": 6850,
+      "y": 500
     },
     "p-1791757106674-5": {
-      "x": 660,
-      "y": 6240
-    },
-    "agg-1791769766672-447": {
-      "x": 920,
-      "y": 6240
+      "x": 7030,
+      "y": 500
     },
     "p-1791757106674-6": {
-      "x": 660,
-      "y": 6400
+      "x": 7210,
+      "y": 500
     },
     "p-1791757106674-7": {
-      "x": 660,
-      "y": 6560
+      "x": 7390,
+      "y": 500
     },
     "p-1791757106674-8": {
-      "x": 660,
-      "y": 6720
+      "x": 7570,
+      "y": 500
     },
     "p-1791757386549-0": {
-      "x": 400,
-      "y": 6880
+      "x": 7750,
+      "y": 300
     },
     "p-1791757386549-1": {
-      "x": 400,
-      "y": 7360
+      "x": 8290,
+      "y": 300
     },
     "p-1791765547152-0": {
-      "x": 660,
-      "y": 7040
+      "x": 7930,
+      "y": 500
     },
     "p-1791765547152-1": {
-      "x": 660,
-      "y": 7200
+      "x": 8110,
+      "y": 500
     },
     "p-1791765547152-2": {
-      "x": 660,
-      "y": 7360
+      "x": 8290,
+      "y": 500
     },
     "agg-1791765645431-398": {
-      "x": 920,
-      "y": 7360
+      "x": 8290,
+      "y": 700
     },
     "p-1791765547152-3": {
-      "x": 660,
-      "y": 7520
+      "x": 8470,
+      "y": 500
     },
     "agg-1791765633238-259": {
-      "x": 920,
-      "y": 7520
+      "x": 8470,
+      "y": 700
     },
     "p-1791765547152-4": {
-      "x": 660,
-      "y": 7680
+      "x": 8650,
+      "y": 500
     },
     "agg-1791765617444-557": {
-      "x": 920,
-      "y": 7680
+      "x": 8650,
+      "y": 700
     },
     "p-1791757386549-2": {
-      "x": 400,
-      "y": 7840
+      "x": 8830,
+      "y": 300
     },
     "p-1791757386549-3": {
-      "x": 400,
-      "y": 8000
+      "x": 9010,
+      "y": 300
     },
     "p-1791757386549-4": {
-      "x": 400,
-      "y": 8240
+      "x": 9280,
+      "y": 300
     },
     "p-1791760847087-0": {
-      "x": 660,
-      "y": 8160
+      "x": 9190,
+      "y": 500
     },
     "agg-1791762098479-970": {
-      "x": 920,
-      "y": 8160
+      "x": 9190,
+      "y": 700
     },
     "p-1791760847087-1": {
-      "x": 660,
-      "y": 8320
+      "x": 9370,
+      "y": 500
     },
     "agg-1791762088662-605": {
-      "x": 920,
-      "y": 8320
+      "x": 9370,
+      "y": 700
     },
     "p-1791757603798-141": {
-      "x": 400,
-      "y": 8560
+      "x": 9640,
+      "y": 300
     },
     "p-1791760825699-0": {
-      "x": 660,
-      "y": 8480
+      "x": 9550,
+      "y": 500
     },
     "agg-1791762109787-427": {
-      "x": 920,
-      "y": 8480
+      "x": 9550,
+      "y": 700
     },
     "p-1791760825699-1": {
-      "x": 660,
-      "y": 8640
+      "x": 9730,
+      "y": 500
     }
   },
-  "layoutMode": "auto"
+  "layoutMode": "manual"
 }
