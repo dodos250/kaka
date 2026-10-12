@@ -319,9 +319,16 @@ export function loadFamilyTree(): FamilyTreeData {
       return restoredRealFamilyData;
     }
 
-    // If local storage has fewer people or aggregates than the restored database export, upgrade it!
-    if (parsed.people.length < restoredRealFamilyData.people.length || 
-       (parsed.aggregates && parsed.aggregates.length < restoredRealFamilyData.aggregates.length)) {
+    // Calculate total descendants recorded in current storage vs restored data
+    const parsedAggTotal = (parsed.aggregates || []).reduce((sum: number, a: any) => sum + (a.count || 0), 0);
+    const restoredAggTotal = (restoredRealFamilyData.aggregates || []).reduce((sum: number, a: any) => sum + (a.count || 0), 0);
+
+    // If local storage has fewer people, fewer aggregates, or lower total descendants than the latest restored dataset, upgrade it automatically!
+    if (
+      parsed.people.length < restoredRealFamilyData.people.length || 
+      (parsed.aggregates && parsed.aggregates.length < restoredRealFamilyData.aggregates.length) ||
+      parsedAggTotal < restoredAggTotal
+    ) {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(restoredRealFamilyData));
       return restoredRealFamilyData;
     }
